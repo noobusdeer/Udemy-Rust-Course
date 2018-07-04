@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["goodbye","In this case, it's out `goodbye()` function."],["hello","Applies code that follows it. In this case, it's out `hello()` function."]]});

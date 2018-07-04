@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Gleb Storozhik <hello@noobusdeer.com>"]
 
 [dependencies]
+rand = "0.5.3"
+phrases = { path = "Phrases" }
